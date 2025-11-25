@@ -90,7 +90,6 @@ level: 2
 ---
 layout: image-left
 image: tipos.jpg
-layout: two-cols
 layoutClass: gap-16
 ---
 

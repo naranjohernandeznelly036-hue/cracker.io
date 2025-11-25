@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /cracker.io/",
+    "build": "slidev build --base /craker.io/",
     "deploy": "gh-pages -d dist",
     "dev": "slidev --open",
     "export": "slidev export"
